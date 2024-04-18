@@ -1,5 +1,5 @@
 {
-    "name": "ismail0234/trendyol-php-api",
+    "name": "bmericc/trendyol-php-api",
     "description": "Trendyol PHP API",
     "type": "library",
     "keywords": ["trendyol", "eticaret", "php api", "trendyol php api", "pazaryeri"],
@@ -8,6 +8,12 @@
         {
             "name": "İsmail Satilmiş",
             "email": "ismaiil_0234@hotmail.com"
+        },
+        {
+            "name": "Bahri Meriç Canlı",
+            "email": "bahri@bahri.info",
+            "homepage": "https://www.bahri.info",
+            "role": "Developer"
         }
     ],
     "require": {
