@@ -40,13 +40,14 @@ Class GateWay
 	 *
 	 */
 	protected $allowedServices = array( 
-		'brand'      => 'BrandService',
-		'cargo'      => 'CargoService',
-		'category'   => 'CategoryService',
-		'product'    => 'ProductService',
-		'order'      => 'OrderService',
-		'webhook'    => 'WebhookService',
-		'settlement' => 'SettlementService',
+		'brand'      		=> 'BrandService',
+		'cargo'      		=> 'CargoService',
+		'category'   		=> 'CategoryService',
+		'product'    		=> 'ProductService',
+		'order'      		=> 'OrderService',
+		'webhook'    		=> 'WebhookService',
+		'settlement' 		=> 'SettlementService',
+		'deliveryExternal' 	=> 'DeliveryExternalService',
 	);
 
 	/**
