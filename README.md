@@ -1,6 +1,6 @@
-[![Latest Stable Version](https://poser.pugx.org/ismail0234/trendyol-php-api/v/stable)](https://packagist.org/packages/ismail0234/trendyol-php-api)
-[![Total Downloads](https://poser.pugx.org/ismail0234/trendyol-php-api/downloads)](https://packagist.org/packages/ismail0234/trendyol-php-api)
-[![License](https://poser.pugx.org/ismail0234/trendyol-php-api/license)](https://packagist.org/packages/ismail0234/trendyol-php-api)
+[![Latest Stable Version](https://poser.pugx.org/bahricanli/trendyol-php-api/v/stable)](https://packagist.org/packages/bahricanli/trendyol-php-api)
+[![Total Downloads](https://poser.pugx.org/bahricanli/trendyol-php-api/downloads)](https://packagist.org/packages/bahricanli/trendyol-php-api)
+[![License](https://poser.pugx.org/bahricanli/trendyol-php-api/license)](https://packagist.org/packages/bahricanli/trendyol-php-api)
 
 # Trendyol PHP Api
 
@@ -11,10 +11,10 @@ Bu api trendyol için yazılmıştır. Trendyol pazaryeri için yazılmış olan
 Çok fazla vaktim olmadığından Trendyolun bütün api fonksiyonları tamamlanmamıştır. Eksik fonksiyonları isterseniz tamamlayarak **pull request** gönderebilirsiniz veya istediğiniz fonksiyonun eklenmesi için **issue** açabilirsiniz. 
 
 ### Change Log
-- See [ChangeLog](https://github.com/ismail0234/trendyol-php-api/blob/master/CHANGELOG.md)
+- See [ChangeLog](https://github.com/bahricanli/trendyol-php-api/blob/master/CHANGELOG.md)
 
 ### Licence
-- See [ChangeLog](https://github.com/ismail0234/trendyol-php-api/blob/master/LICENCE)
+- See [ChangeLog](https://github.com/bahricanli/trendyol-php-api/blob/master/LICENCE)
 
 ## Hızlı Bakış
  * [Kurulum](#kurulum)
@@ -32,7 +32,7 @@ Kurulum için composer kullanmanız gerekmektedir. Composer'a sahip değilseniz 
 
 ```php
 
-composer require ismail0234/trendyol-php-api
+composer require bahricanli/trendyol-php-api
 
 ```
 
